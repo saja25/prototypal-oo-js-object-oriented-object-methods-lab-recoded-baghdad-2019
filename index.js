@@ -9,7 +9,9 @@ BoardMember.prototype.veto=function(){
 BoardMember.prototype.approve=function(){
   return 'You can do that!'
 } 
-BoardMember.prototype.doCharity 
+BoardMember.prototype.doCharity =function(){
+  return 
+}
 BoardMember.prototype.
 BoardMember.prototype.
 BoardMember.prototype.
