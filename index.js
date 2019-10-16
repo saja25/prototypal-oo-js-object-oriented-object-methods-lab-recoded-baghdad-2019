@@ -10,7 +10,7 @@ BoardMember.prototype.approve=function(){
   return 'You can do that!'
 } 
 BoardMember.prototype.doCharity =function(){
-  return 
+  return 'I like to help people.'
 }
 BoardMember.prototype.
 BoardMember.prototype.
